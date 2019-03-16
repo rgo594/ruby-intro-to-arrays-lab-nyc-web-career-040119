@@ -8,3 +8,6 @@ def array_with_two_elements(array, a, b)
   return array
 end
 
+def first_element(array)
+  array.first
+end
