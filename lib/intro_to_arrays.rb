@@ -2,4 +2,5 @@ def instantiate_new_array(array)
   array = []
 end
 
-def 
+def array_with_two_elements(array)
+  array =[]
